@@ -2,5 +2,5 @@
 
 <h1>Pokedex Game</h1>  
 
-<blockquote>Hello World</blockquote>
+<blockquote><p>Hello World</p></blockquote>
   
